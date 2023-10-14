@@ -77,8 +77,6 @@ class Program
     {
         Ork ork = new Ork();
         int gold;
-        string Game = "Начать фарм";
-        string userString;
 
         ork.Maining();
 
