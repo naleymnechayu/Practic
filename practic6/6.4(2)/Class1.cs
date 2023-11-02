@@ -73,9 +73,4 @@ namespace task
             }
         }
     }
-    class LoreShow:HeroLore
-    {
-
-    }
-   
 }
